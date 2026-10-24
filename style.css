@@ -80,7 +80,6 @@ h2 {
 p,
 li {
   color: var(--body);
-  text-wrap: pretty;
 }
 
 h1,
